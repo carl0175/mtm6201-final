@@ -1,0 +1,50 @@
+.wrapper {
+    background-color: #A3B18A;
+    width: 440px;
+    justify-self: center;
+    text-align: center;
+}
+
+img {
+    size: 100%;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+main {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #C76B3E;
+}
+
+.bundle-card {
+    margin: 5%;
+    padding: 10px;
+    background-color: #C76B3E;
+}
+
+.menu-card img {
+    width: 100%;
+}
+
+.menu-card {
+    margin: 5%;
+    padding: 10px;
+}
+
+.our-sources {
+    background-color: #C76B3E;
+}
+
+footer {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

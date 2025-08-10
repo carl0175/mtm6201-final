@@ -1,0 +1,43 @@
+
+
+.wrapper {
+    background-color: #A3B18A;
+    width: 440px;
+    justify-self: center;
+    text-align: center;
+}
+
+img {
+    size: 100%;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-h1-p {
+padding-inline: 5%;
+}
+
+main {
+    background-color: #C76B3E;
+}
+
+.welcome-pic {
+    width: 95%;
+    padding-top: 10px;
+}
+
+section {
+    padding-inline: 5%;
+}
+
+footer {
+    background-color: #C76B3E;
+}
